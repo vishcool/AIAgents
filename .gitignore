@@ -1,0 +1,6 @@
+venv/
+AI_AGENT_PYHTON/chrome_langchain_db/
+__pycache__/
+AI_AGENT_PYHTON/__pycache__/
+AI_AGENT_PYHTON/vector.pyc
+*.pyc
